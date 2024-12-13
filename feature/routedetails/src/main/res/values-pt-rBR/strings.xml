@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="user_id_title">A corrida vai ser para quem?</string>
+    <string name="starting_point">Ponto de partida</string>
+    <string name="where_to_text">Destino</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="user_id_title">Who\'s the race going to be for?</string>
+    <string name="starting_point">Starting point</string>
+    <string name="where_to_text">Where should we go?</string>
+</resources>

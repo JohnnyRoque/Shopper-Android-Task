@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello_title">Olá %1$s</string>
+    <string name="detail_title">Planeje sua corrida</string>
+    <string name="summary_title">Histórico de viagens</string>
+    <string name="back_button">Voltar</string>
+</resources>

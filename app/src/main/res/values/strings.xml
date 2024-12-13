@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">Shopper Drive</string>
+    <string name="hello_title">Hello %1$s</string>
+    <string name="detail_title">Plan your race</string>
+    <string name="summary_title">Trip history</string>
+    <string name="back_button">Back</string>
+    <string name="tag_text" translatable="false">Shopper-tag: %1$s</string>
+
+</resources>

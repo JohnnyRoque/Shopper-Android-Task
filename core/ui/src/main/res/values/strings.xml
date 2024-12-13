@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="starting_point">Starting point</string>
+    <string name="where_to_text">Where should we go?</string>
+    <string name="calculate_race">Calculate race</string>
+    <string name="show_all">Show all</string>
+    <string name="tag_text_placeholder" translatable="false">Shopper-tag</string>
+    <string name="confirm_text">Confirm</string>
+
+</resources>

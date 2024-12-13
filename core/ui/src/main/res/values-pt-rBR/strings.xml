@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="starting_point">Local de partida</string>
+    <string name="where_to_text">Vamos para onde?</string>
+    <string name="calculate_race">Calcular corrida</string>
+    <string name="show_all">Mostrar todos</string>
+    <string name="confirm_text">Confirmar</string>
+</resources>
