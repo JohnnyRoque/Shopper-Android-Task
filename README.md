@@ -37,4 +37,13 @@ Conversão Automática: Com suporte a Gson, os dados recebidos do servidor são 
 Implementação de Casos de Uso: Os casos de uso, como GetRideUseCase e EstimateTripValueUseCase, utilizam os serviços do Retrofit para fazer chamadas à API e processar os dados retornados.
 
 ## Observação do desenvolvedor
-Obrigado a toda a equipe do Shopper por proporcionar essa oportunidade!
+O App utiliza a Google Maps API para apresentar sugestões de endereço ao digitar um como origem e destino, e para apresentar uma imagem da rota. Sendo assim é necessário registrar uma API key no seguintes caminhos:
+
+### Maps Route Image
+
+A chave deve ser registrada em feature/routedetails/src/main/java/com/iceman/routedetails/ui/RouteDetailViewModel.kt -> getLocationRoute()
+
+### Google Maps Place
+A chave deve ser registrada em app/src/main/java/com/iceman/shopperdrive/MainActivity.kt -> Places.initialize(applicationContext, MAPS_KEY )
+
+
